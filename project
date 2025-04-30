@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Simple Page</title>
+</head>
+<body>
+
+<h1>This is a Heading</h1>
+<p>This is a paragraph of text.</p>
+<br>
+<b>This is bold text.</b>
+<i>This is italic text.</i>
+
+</body>
+</html>
